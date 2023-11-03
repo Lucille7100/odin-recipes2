@@ -1,0 +1,10 @@
+* {
+    background-color: purple;
+}
+
+.steps {
+    border: 10px;
+    border-color: black;
+    border-style: dotted;
+    padding: 20px;
+}

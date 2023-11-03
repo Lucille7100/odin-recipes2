@@ -1,0 +1,11 @@
+h1, .container{
+    color: brown;
+    border: 5px;
+    border-style: dashed;
+    padding: 10px;
+}
+
+img {
+    width: 350px;
+    height: auto;
+}

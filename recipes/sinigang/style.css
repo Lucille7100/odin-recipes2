@@ -1,0 +1,29 @@
+* {
+    background-color: beige;
+}
+
+h2,h1 {
+    color: grey;
+}
+
+h1,.describe {
+    border: 5px;
+    border-style: solid;
+    border-color: black;
+    padding: 15px;
+}
+
+img {
+    width: 350px;
+    height: auto;
+}
+
+.container {
+    border: 5px;
+    border-style: dotted;
+    border-color: grey;
+    padding: 8px;
+    margin: 10px;
+}
+
+
